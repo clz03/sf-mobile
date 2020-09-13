@@ -7,7 +7,7 @@ const Checklist = () => {
   return (
   
   <View>
-    <Text>Checlist</Text>
+    <Text>Checklist</Text>
   </View>
   
   );
